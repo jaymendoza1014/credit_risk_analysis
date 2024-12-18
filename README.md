@@ -5,7 +5,9 @@ This repository contains a Loan Approval Calculator application and supporting J
 ## Repository Contents
 - loan_calculator.py: Streamlit application for loan approval predictions.
 - credit_risk_evaluation_model.ipynb: Jupyter notebook containing exploratory data analysis (EDA), data cleaning, and model creation.
-- requirements.txt: Required libraries 
+- requirements.txt: Required libraries
+- credit_application_lg_model.pkl: Logistic Regression Model created in credit_risk_evaluation_model.ipynb
+- credit_application_scaler.pkl: Scaler for model 
 
 ## Prerequisites
 Python 3.8 or higher
