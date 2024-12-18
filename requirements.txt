@@ -1,0 +1,9 @@
+# Streamlit for app creation
+streamlit
+
+# Machine learning library for modeling
+scikit-learn
+
+# Data manipulation and analysis libraries
+pandas
+numpy
