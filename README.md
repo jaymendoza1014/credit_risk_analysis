@@ -12,8 +12,7 @@ Python 3.8 or higher
 Required libraries (listed in requirements.txt)
 
 ## Running the Application:
-Streamlit App
-For hosted access, once the app is deployed, visit the app at your public URL (e.g., https://your-app-name.streamlit.app).
+Visit the app at: https://creditriskanalysis-loanapplication.streamlit.app/ 
 
 
 ## Inputs and Outputs
